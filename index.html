@@ -1,0 +1,13 @@
+---
+layout: home
+title: addywaddy::blog
+---
+<center>
+<h1 id="slogan">addy<span>w</span>addy</h1>
+{% assign first_post = site.posts.first %}
+<div id="post" class="grid_6 alpha content">
+  <a href="{{ first_post.url }}">
+    latest post: {{ first_post.title }}
+  </a>
+</div>
+</center>

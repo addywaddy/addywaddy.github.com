@@ -1,0 +1,7 @@
+* { margin: 0; padding: 0}
+html { width: 60%; margin: 0 auto}
+body { font: 100% "Helvetica", "Trebuchet MS", Verdana, sans-serif; padding: 1em }
+h1 {font-family: Futura, Gill Sans, Helvetica;}
+#slogan { font-size: 500%; margin-top: 2em}
+#slogan span { color: crimson; margin-left: 0.05em} 
+
