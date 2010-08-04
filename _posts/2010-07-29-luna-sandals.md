@@ -35,5 +35,10 @@ The sandals come with 72" laces (hemp or leather) as there are 2 tying styles fo
 
 ![alt text](/pics/sandals/tied.jpg "Title")
 
-Hmm. How come my lovely sun-kissed legs look so pasty white in that photo? I didn't go for a run in them in the end but will hopefully do so this week and post about the experience
+Hmm. How come my lovely sun-kissed legs look so pasty white in that photo? I want to retain the option of tying the traditional way so to avoid cutting the lace, I just wrapped itself a couple of times. This holds well without hte need to tie.
 
+## The Running
+
+I went for a 5k run in my Lunas the evening after they arrived. All in all it went really well. They are extremely light and, and this is the main reason I bought my pair, enable me to go running in areas where the ground is too rough for barefoot. I did have to stop to adjust them a bit midway through and I think it'll take another few runs to get them sitign correctly on my feet.
+
+The only slight niggle I had was the strap rubbing between my toes (a not too uncommon problem amongst huarache runners, apparently). Landing forefoot causes the foot to want to move against the sandal strap and I ended up with a small blister on my right foot as a result. My left foot was however fine which leads me to believe that this is not an irresolvable issue.
