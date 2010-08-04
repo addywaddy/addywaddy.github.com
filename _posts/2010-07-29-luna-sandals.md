@@ -35,7 +35,7 @@ The sandals come with 72" laces (hemp or leather) as there are 2 tying styles fo
 
 ![alt text](/pics/sandals/tied.jpg "Title")
 
-Hmm. How come my lovely sun-kissed legs look so pasty white in that photo? I want to retain the option of tying the traditional way so to avoid cutting the lace, I just wrapped itself a couple of times. This holds well without hte need to tie.
+Hmm. How come my lovely sun-kissed legs look so pasty white in that photo? I want to retain the option of tying the traditional way so to avoid cutting the lace, I just wrapped it around itself a couple of times. This holds well without the need to tie.
 
 ## The Running
 
