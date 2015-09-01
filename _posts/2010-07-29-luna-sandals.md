@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      Luna Sandals
-date:       2015-08-31
+date:       2010-07-29
 summary:    Unboxing and first run in my new sandals.
 categories: running
 ---
