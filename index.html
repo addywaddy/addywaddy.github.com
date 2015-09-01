@@ -16,6 +16,11 @@ layout: default
             {{ post.excerpt }}
           {% endif %}
         </p>
+        <div class="py2">
+          {% for category in post.categories %}
+            <em>{{ category }}</em>
+          {% endfor %}
+        </div>
       </div>
     {% endfor %}
   </div>
