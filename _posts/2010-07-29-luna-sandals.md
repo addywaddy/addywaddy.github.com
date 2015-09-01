@@ -1,5 +1,8 @@
 ---
 layout: post
+title:      Luna Sandals
+date:       2015-08-31
+summary:    Unboxing and first run in my new sandals.
 categories: running
 ---
 My Luna Sandals arrived in the post this morning, but as I was on the way out to work via the kindergarten, I had to wait until this evening until I could unbox them.
