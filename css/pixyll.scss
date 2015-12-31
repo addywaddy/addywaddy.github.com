@@ -34,3 +34,7 @@
 @import 'gists';
 @import 'measure';
 @import 'pagination';
+
+.posts .post-title { font-size: 21px; }
+.posts .post-categories { font-size: 17px; font-family: 'Courier New' }
+.posts .post-date { display: inline-block; width: 6em;font-weight: normal; font-style: italic; }
